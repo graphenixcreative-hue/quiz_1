@@ -1,25 +1,18 @@
-Nasrullah - SEMANTIC HTML & CSS WEBSITE
+Quiz NO 1
 
-Folder structure:
+A four-page static website for a pottery studio, built with only semantic HTML5 and CSS3.
 
-professional-semantic-website/
-│
-├── index.html
-├── css/
-│   └── style.css
-└── pages/
-    ├── about.html
-    ├── services.html
-    └── contact.html
+Features
+Sticky navigation bar on every page
+Identical navbar and footer across all pages
+Fixed "Contact us" button at the bottom right of the landing page
+Semantic markup (header, nav, main, section, article, address, footer)
+Responsive layout that works on mobile and desktop
+Accessible focus styles, aria-current on the active page, and reduced-motion support
+Pages
 
-Requirements covered:
-- Semantic HTML5
-- CSS only
-- Multiple pages
-- Page routing using HTML links
-- Sticky navbar
-- Same navbar/footer on every page
-- Fixed Contact Us button on landing page
-- Responsive professional design
+Home, About, Classes, Contact
 
-Open index.html in a browser to start the website.
+Run locally
+
+Clone the repo and open index.html in your browser.
