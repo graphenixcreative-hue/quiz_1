@@ -1,4 +1,4 @@
-VERTEX - SEMANTIC HTML & CSS WEBSITE
+Nasrullah - SEMANTIC HTML & CSS WEBSITE
 
 Folder structure:
 
